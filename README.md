@@ -1,14 +1,16 @@
-# MyProducts
+<div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/saviotomazb/myProducts?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/saviotomazb/myProducts?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/saviotomazb/myProducts?style=for-the-badge)
-![GitHub open issues](https://img.shields.io/github/issues/saviotomazb/myProducts?style=for-the-badge)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/saviotomazb/myProducts?style=for-the-badge)
+  <img src="wwwroot/images/Logotipo_branco.png" alt="Logotipo do MyProducts" width="300">
 
-<img src="wwwroot/images/Logotipo_branco.png" alt="Logotipo do MyProducts">
+</div>
 
-> O MyProducts é uma aplicação web para cadastro de produtos, categorias, clientes e geração de orçamentos. O sistema também conta com autenticação de usuários, recuperação de senha por e-mail, registros de logs e uma área de dashboard para acompanhar dados operacionais.
+<hr>
+
+<div align="center">
+
+O MyProducts é uma aplicação web para cadastro de produtos, categorias, clientes e geração de orçamentos. O sistema também conta com autenticação de usuários, recuperação de senha por e-mail, registros de logs e uma área de dashboard para acompanhar dados operacionais.
+
+</div>
 
 ### Ajustes e melhorias
 
@@ -111,28 +113,3 @@ Para contribuir com MyProducts, siga estas etapas:
 5. Crie a solicitação de pull.
 
 Como alternativa, consulte a documentação do GitHub em [como criar uma solicitacao pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
-## 🤝 Colaboradores
-
-Agradecemos as seguintes pessoas que contribuiram para este projeto:
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/saviotomazb" title="Perfil de Sávio Tomaz no GitHub">
-        <img src="https://avatars.githubusercontent.com/saviotomazb" width="100px;" alt="Foto de Sávio Tomaz no GitHub"/><br>
-        <sub>
-          <b>Sávio Tomaz</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-## 😄 Seja um dos contribuidores
-
-Quer fazer parte desse projeto? Abra uma issue ou envie uma pull request com melhorias, correções ou novas funcionalidades.
-
-## 📝 Licença
-
-Esse projeto esta sob licença ISC. Veja o arquivo [package.json](package.json) para mais detalhes.
