@@ -12,7 +12,7 @@ O MyProducts é uma aplicação web para cadastro de produtos, categorias, clien
 
 </div>
 
-### Ajustes e melhorias
+## 🚧 Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
