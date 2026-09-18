@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="wwwroot/images/Logotipo_branco.png" alt="Logotipo do MyProducts" width="300">
+  <img src="wwwroot/images/Logotipo_branco.png" alt="Logotipo do myProducts" width="300">
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-O MyProducts é uma aplicação web para cadastro de produtos, categorias, clientes e geração de orçamentos. O sistema também conta com autenticação de usuários, recuperação de senha por e-mail, registros de logs e uma área de dashboard para acompanhar dados operacionais.
+O myProducts é uma aplicação web para cadastro de produtos, categorias, clientes e geração de orçamentos. O sistema também conta com autenticação de usuários, recuperação de senha por e-mail, registros de logs e uma área de dashboard para acompanhar dados operacionais.
 
 </div>
 
@@ -38,7 +38,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 Variáveis de ambiente necessárias:
 
 ```env
-DefaultConnection=Server=SEU_SERVIDOR;Database=MYPRODUCTS;Trusted_Connection=True;TrustServerCertificate=True
+DefaultConnection=Server=SEU_SERVIDOR;Database=myProducts;Trusted_Connection=True;TrustServerCertificate=True
 Jwt:Key=SUA_CHAVE_SECRETA_PARA_ASSINATURA_DO_JWT
 SMTP_HOST=smtp.gmail.com
 SMTP_PORT=587
@@ -46,9 +46,9 @@ SMTP_USER=seuemail@gmail.com
 SMTP_PASS=sua_senha_ou_app_password
 ```
 
-## 🚀 Instalando MyProducts
+## 🚀 Instalando myProducts
 
-Para instalar o MyProducts, siga estas etapas:
+Para instalar o myProducts, siga estas etapas:
 
 Linux e macOS:
 
@@ -72,9 +72,9 @@ dotnet ef database update
 
 O comando `dotnet ef database update` cria ou atualiza o banco de dados configurado em `DefaultConnection`.
 
-## ☕ Usando MyProducts
+## ☕ Usando myProducts
 
-Para usar o MyProducts, siga estas etapas:
+Para usar o myProducts, siga estas etapas:
 
 ```bash
 npm run dev
@@ -102,9 +102,9 @@ Principais áreas do sistema:
 - Serilog
 - SMTP para recuperacao de senha
 
-## 📫 Contribuindo para MyProducts
+## 📫 Contribuindo para myProducts
 
-Para contribuir com MyProducts, siga estas etapas:
+Para contribuir com myProducts, siga estas etapas:
 
 1. Bifurque este repositorio.
 2. Crie um branch: `git checkout -b minha-funcionalidade`.
